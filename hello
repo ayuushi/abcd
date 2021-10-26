@@ -1,1 +1,6 @@
-hello
+//
+public class
+{
+int c=100;
+System.out.println(c);
+}
